@@ -14,5 +14,14 @@
 - `source /etc/profile.d/gradle.sh`
 - `gradle -v`
 ***
-
+## Gradle & Gradle Wrapper
+- `gradle wrapper` - to run graddle wrapper
+- `gradle init` - command, which will create **`build.gradle`** and graddle wrapper setup.
+- `./gradlew build` - sample gradle wrapper command
+- we need to set tasks in **`build.gradle`** depends on our requirement
+  > checkout **`build.gradle`** in code-block
+## Automated testing
+- **unit test** - for testing small piece of code
+- **integration test** - test larger portions of application integrated with each other
+- **smoke / sanity test** - high level integration test that verify basic, large scale things like weather or not the application runs, application endpoint return 500 error
 ***
