@@ -24,4 +24,6 @@
 - **unit test** - for testing small piece of code
 - **integration test** - test larger portions of application integrated with each other
 - **smoke / sanity test** - high level integration test that verify basic, large scale things like weather or not the application runs, application endpoint return 500 error
+
+- clone the `cicd-gradle-automation-testing` folder for testing how Automation works
 ***
