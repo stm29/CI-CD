@@ -33,5 +33,6 @@
 ## Trigger Build Automatically when Commit happends in Github 
 
 - you need to create access token from here [https://github.com/settings/tokens](https://github.com/settings/tokens)
+- Give admin_repohook privilege and generate and copy the Key
 
 ***
