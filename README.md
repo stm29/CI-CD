@@ -17,3 +17,4 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 You can run the Automation testing with:
 
     ./gradle npm_test 
+
