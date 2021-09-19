@@ -27,3 +27,7 @@
 
 - clone the `cicd-gradle-automation-testing` folder for testing how Automation works
 ***
+
+## You can clone `sample-build-jenkins` Branch for checking Build Steps using Jenkins as Gradle Build
+
+***
