@@ -34,5 +34,7 @@
 
 - you need to create access token from here [https://github.com/settings/tokens](https://github.com/settings/tokens)
 - Give admin_repohook privilege and generate and copy the Key
+- Jenkins --> Manage Jenkins --> Configure system --> Scroll Dowm to Github --> Add API creds created above (Check hooks checkox)
+- Now in Jenkins Project --? configure --> Build Triggers --> Github Build
 
 ***
