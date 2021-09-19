@@ -30,4 +30,8 @@
 
 ## You can clone `sample-build-jenkins` Branch for checking Build Steps using Jenkins as Gradle Build
 
+## Trigger Build Automatically when Commit happends in Github 
+
+- you need to create access token from here [https://github.com/settings/tokens](https://github.com/settings/tokens)
+
 ***
